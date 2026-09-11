@@ -1,4 +1,4 @@
-<h1 align="center">Varisha Sarfaraz ✦</h1>
+<h1 align="center"> Varisha Sarfaraz 🐾</h1>
 <h3 align="center">
   Software Engineering Graduate • Developer • 3D Artist
 </h3>
