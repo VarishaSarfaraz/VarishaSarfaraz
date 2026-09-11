@@ -12,7 +12,7 @@
 <p align="center">
   <img src="coding-cat.gif" width="170" alt="Animated coding cat" />
 </p>
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me ✦</h2>
 <p align="center">
   Software Engineering graduate with a mix of technical and creative interests.<br>
   I enjoy building web interfaces, exploring UI/UX, and creating 3D work in Autodesk Maya.<br>
